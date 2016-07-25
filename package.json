@@ -1,0 +1,11 @@
+{
+  "name": "rn-easy-text",
+  "version": "0.1.2",
+  "description": "Text",
+  "main": "EasyText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rockvic",
+  "license": "ISC"
+}
