@@ -1,6 +1,6 @@
 {
   "name": "rn-easy-text",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "Text",
   "main": "EasyText.js",
   "scripts": {
