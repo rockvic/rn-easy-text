@@ -1,11 +1,23 @@
 {
   "name": "rn-easy-text",
   "version": "0.1.0",
-  "description": "Text",
+  "description": "Easy text for react native Text component",
   "main": "EasyText.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rockvic/rn-easy-text.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "text"
+  ],
   "author": "Rockvic",
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockvic/rn-easy-text/issues"
+  }
 }
